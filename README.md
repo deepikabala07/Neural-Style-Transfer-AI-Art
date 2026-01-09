@@ -16,4 +16,4 @@ This project implements Neural Style Transfer using a pre-trained VGG19 convolut
 - OpenCV
 - Matplotlib
 
-## 📂 Project Structure
+
